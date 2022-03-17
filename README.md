@@ -2,7 +2,7 @@
 
 ## Auteur :
 
-Rémy Guibert (https://github.com/Rashnain) et Christopher Marie-Angélique (https://github.com/Christopher973)
+Rémy Guibert et Christopher Marie-Angélique (https://github.com/Christopher973)
 
 ## Contexte :
 
